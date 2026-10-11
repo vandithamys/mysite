@@ -1,6 +1,7 @@
-.table {
+.table.custom-red{
   width: 100%;
   overflow-x: auto;
+  background-color : lightblue;
 }
 
 .table table {
@@ -25,6 +26,7 @@
 .table table thead tr {
   border-top: 2px solid #dadada;
   border-bottom: 2px solid #dadada;
+  color: green;
 }
 
 .table table tbody tr {
